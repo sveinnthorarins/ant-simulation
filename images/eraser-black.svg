@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="512" height="512" viewBox="0 0 512 512" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+<defs>
+</defs>
+<g transform="matrix(-1 0 0 1 256 256)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -72.94 -64.17)" id="Capa_1"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-183.06, -191.83)" d="M 209.307 22.259 C 191.309 4.305 162.028 4.26 144.03 22.243 L 13.49 152.799 c -17.984 17.997 -17.984 47.279 -0.015 65.277 L 170.29 374.878 l 195.822 -195.822 L 209.307 22.259 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 84.61 231.84)" id="Capa_1"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-340.61, -487.84)" d="M 417.534 472.458 H 263.693 c -8.503 0 -15.384 6.881 -15.384 15.384 c 0 8.503 6.881 15.384 15.384 15.384 h 153.842 c 8.503 0 15.384 -6.881 15.384 -15.384 C 432.918 479.339 426.038 472.458 417.534 472.458 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -53.84 231.84)" id="Capa_1"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="15.384" />
+</g>
+		<g transform="matrix(1 0 0 1 96.02 65.25)" id="Capa_1"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-352.02, -321.25)" d="M 498.527 311.462 L 387.866 200.81 l -195.82 195.82 l 45.063 45.057 v -0.001 h 196.446 l 64.955 -64.947 C 516.495 358.742 516.495 329.461 498.527 311.462 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>

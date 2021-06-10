@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.5" />
+    <title>Ant Simulation</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div class="toolbar">
+      <div class="toolbar__col">
+        <div id="tools" class="toolbar__tools">
+          <button id="mapButton" class="toolbar__button">Map</button
+          ><button id="anthillButton" class="toolbar__button">Anthill</button
+          ><button id="foodButton" class="toolbar__button">Food</button
+          ><!-- message span 
+          --><span id="toolMessageSpan" class="toolbar__message invisible"></span
+          ><!-- map editing buttons 
+          --><button id="mapClearButton" class="toolbar__button invisible" disabled>Clear</button
+          ><button id="mapBrushButton" class="toolbar__button toolbar__brush invisible" disabled>&nbsp;</button
+          ><button id="mapEraserButton" class="toolbar__button toolbar__eraser invisible" disabled>&nbsp;</button
+          ><button id="mapDoneButton" class="toolbar__button button--green invisible" disabled>Done</button
+          ><!-- anthill editing buttons 
+          --><button id="anthillDoneButton" class="toolbar__button button--green invisible">Done</button
+          ><!-- food editing buttons 
+          --><button id="foodDoneButton" class="toolbar__button button--green invisible">Done</button>
+        </div>
+      </div>
+      <div class="toolbar__col">
+        <button id="startButton" class="toolbar__startbutton button--green startbutton--play" disabled></button>
+      </div>
+      <div class="toolbar__col">
+        <div class="toolbar__mainmessagecontainer">
+          <span id="messageSpan" class="toolbar__message message--mainmsg invisible"></span>
+        </div>
+      </div>
+    </div>
+    <div class="view">
+      <canvas id="mainStage" width="1280" height="720"></canvas>
+      <canvas id="mapStage" class="invisible" width="1280" height="720"></canvas>
+    </div>
+  </body>
+</html>
+<script src="bundle.js"></script>
